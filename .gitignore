@@ -1,0 +1,10 @@
+# Grafana data
+grafana/data/
+*.db
+
+# Prometheus data
+prometheus/data/
+
+# OS files
+.DS_Store
+Thumbs.db

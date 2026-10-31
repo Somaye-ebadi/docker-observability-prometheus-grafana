@@ -25,3 +25,7 @@ A containerized monitoring project using Docker Compose, Prometheus, and Grafana
 
 ```bash
 docker compose up -d
+
+## Dashboard Preview
+
+![Grafana Dashboard](grafana-dashboard.png)
